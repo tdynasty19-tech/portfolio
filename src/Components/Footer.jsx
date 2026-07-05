@@ -14,8 +14,8 @@ function Footer() {
             boxShadow: '0 4px 10px rgba(0, 0, 0, 0.3)',
             alignItems: 'center'
         }}>
-            <p style={{ margin: 0, textAlign: 'center' }}>GitHub: github.com/nikhiltiwari2004</p>
-            <p style={{ margin: 0, textAlign: 'center' }}>LinkedIn: linkedin.com/in/nikhil-tiwari-2004</p>
+            <p style={{ margin: 0, textAlign: 'center' }}>GitHub: https://github.com/tdynasty19-tech</p>
+            <p style={{ margin: 0, textAlign: 'center' }}>LinkedIn: https://www.linkedin.com/in/nikhil-tiwari-b6963437a/</p>
             <p style={{ margin: 0, textAlign: 'center' }}>Email: t.dynasty19@gmail.com</p>
             <p style={{ margin: 0, textAlign: 'center' }}>Phone: +91 9667229978</p>
         </div>
