@@ -1,4 +1,5 @@
 import React from 'react'
+import myImage from "../assets/myimage.jpeg";
 
 function About() {
   return (
@@ -27,7 +28,7 @@ function About() {
             }}
         >
             <img
-            src="https://png.pngtree.com/png-clipart/20230927/original/pngtree-man-avatar-image-for-profile-png-image_13001882.png"
+            src={myImage}
             alt="Profile"
             style={{
                 width: '180px',
@@ -39,7 +40,8 @@ function About() {
             />
 
             <h1 style={{ marginBottom: '10px' }}>Nikhil Tiwari</h1>
-            <h3 style={{ margin: '5px 0', color: '#d1d5db' }}>Software Engineer</h3>
+            <h3 style={{ margin: '5px 0', color: '#586a85' }}>(2401220100165)</h3>
+            <h3 style={{ margin: '5px 0', color: '#586a85' }}>Software Engineer</h3>
             <p style={{ marginTop: '10px' }}>Welcome to my portfolio!</p>
         </div>
 

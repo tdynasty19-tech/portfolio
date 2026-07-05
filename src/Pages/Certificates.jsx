@@ -99,7 +99,7 @@ function Certificates() {
           }}
         >
           <img
-            src="https://img.icons8.com/?size=512&id=40669&format=png"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSehG864y5Kxn27dOp12NmS0rXh0PbgXaKi3DMb81v5MdlWiP7SJKxUlPfb&s=10"
             alt="Certificate"
             style={{
               width: "120px",
